@@ -1,0 +1,20 @@
+.active {
+    transform: translateX(20vw);
+    transition: 1s;
+    z-index: 1;
+  }
+
+  #content {
+    transform: translateX(-20vw);
+  }
+/* #stars{
+    z-index: 3;
+}
+
+#settings{
+    z-index: 2;
+}
+
+#search{
+    z-index: 1;
+} */
